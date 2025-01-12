@@ -1,10 +1,9 @@
 # Hi 👋
 
-<h2 style="display: flex; align-items: center;">
-<span>There's nothing interesting here, just &nbsp;</span>
-<img src="resources/raccoon-dance.gif" alt="raccoon dance" width=75 height=75>
+<h2>
+  <span>There's nothing interesting here, just &nbsp;</span>
+  <img src="resources/raccoon-dance.gif" alt="raccoon dance" width=60 height=60 style="vertical-align: middle;" />
 </h2>
-
 
 <!--
 **Er-valer/Er-valer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
