@@ -1,7 +1,7 @@
 # Hi 👋
 
 <h2 style="display: flex; align-items: center;">
-There's nothing interesting here, just &nbsp;
+<span>There's nothing interesting here, just &nbsp;</span>
 <img src="resources/raccoon-dance.gif" alt="raccoon dance" width=75 height=75>
 </h2>
 
